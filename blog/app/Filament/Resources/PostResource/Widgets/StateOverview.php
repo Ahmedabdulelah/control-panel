@@ -16,3 +16,4 @@ class StateOverview extends BaseWidget
         ];
     }
 }
+

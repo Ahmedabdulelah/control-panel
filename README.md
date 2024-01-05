@@ -1,3 +1,1 @@
-This project is a control panel to facilitate the management of accounts and publications and
-the possibility of deleting and modifying them or creating new publications with the ability to 
-filter data for quick access and search for them.
+This project is a control panel that makes it easier for the administrator to manage and view several things, including publications, the ability to delete and modify them, and the ability to filter data for quick access and search.
